@@ -57,7 +57,7 @@ Once the admins get involved, they will follow a documented series of steps and 
 
 You may get in touch with the BTVDev admin team by directly messaging them in private.
 
-The admins are: @bradley, @jhoguet, @payton, @sara, @beerlington, @joshuaburke, @mo_mack
+The admins are: @bradley, @joshuaburke, @julielerman, @maureen.mcelaney, @payton
 
 ### Further Enforcement
 
